@@ -19,8 +19,6 @@ Saya terbiasa bekerja mandiri, terdokumentasi, dan berorientasi pembelajaran ber
 - **subfinder** — enumerasi subdomain
 - **httpx** — identifikasi host aktif
 - **nmap** — pemindaian port & enumerasi layanan
-- **Metasploit Framework** — eksplorasi exploit di lingkungan lab
-- Dasar penggunaan **Burp Suite**
 
 ### 🌐 Konsep Keamanan Siber
 - Fundamental **OWASP Top 10**
