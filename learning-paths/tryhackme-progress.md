@@ -20,8 +20,6 @@ Aktif belajar — Beginner Track
 - subfinder
 - httpx
 - nmap
-- burp suite (dasar)
-- metasploit (lab pribadi)
 
 ---
 
